@@ -1,0 +1,8 @@
+{
+  "key": "CREATE_USER_WITH_EMAIL",
+  "uri": "/api/v1/userWithEmail",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["USER", "FIELD"],
+  "transformer" : "userTransformer"
+}
+

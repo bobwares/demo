@@ -1,0 +1,8 @@
+{
+  "key": "CREATE_PLANTING_DATA_API",
+  "uri": "/api/v1/planting",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["PLANTING"],
+  "transformer" : "plantingTransformer"
+}
+

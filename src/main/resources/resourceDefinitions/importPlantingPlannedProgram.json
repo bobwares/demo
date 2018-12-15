@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_PLANNED_PLANTING_ROUTE",
+  "uri": "/api/v1/import/planting/planned/program",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["PLANNED_PLANTING"],
+  "transformer" : "importPlantingPlannedProgramTransformer"
+}
+

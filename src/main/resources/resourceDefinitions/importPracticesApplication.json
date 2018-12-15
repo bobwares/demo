@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_PRACTICES_APPLICATION",
+  "uri": "/api/v1/import/practices/application",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["PRACTICE"],
+  "transformer" : "importPracticesApplicationTransformer"
+}
+

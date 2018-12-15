@@ -1,0 +1,8 @@
+{
+  "key": "CREATE_DEALER_WITH_EMAIL",
+  "uri": "/api/v1/dealerWithEmail",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["DEALER", "DEALERSHIP"],
+  "transformer" : "dealerTransformer"
+}
+

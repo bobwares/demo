@@ -1,0 +1,8 @@
+{
+  "key": "DELETE_SCOUTING_PINS_API",
+  "uri": "/api/v1/scouting/delete/pins/{userId}",
+  "operation": "DELETE",
+  "dataTypeSupportedList": ["SCOUTING_PIN"],
+  "transformer" : ""
+}
+

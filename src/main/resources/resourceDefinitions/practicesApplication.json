@@ -1,0 +1,8 @@
+{
+  "key": "ADD_PRACTICES_APPLICATION",
+  "uri": "/api/v1/practices/application",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["PRACTICE"],
+  "transformer" : "practicesApplicationTransformer"
+}
+

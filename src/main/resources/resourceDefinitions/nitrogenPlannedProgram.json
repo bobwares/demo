@@ -1,0 +1,7 @@
+{
+  "key": "NITROGEN_PLANNED_PROGRAM",
+  "uri": "/api/v1/nitrogen/planned/program",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["NITROGEN"],
+  "transformer" : "nitrogenPlannedProgramTransformer"
+}

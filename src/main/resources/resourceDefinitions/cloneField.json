@@ -1,0 +1,8 @@
+{
+  "key": "CLONE_FIELDVIEW_DATA_API",
+  "uri": "/api/v1/clone/field",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["PLANTING"],
+  "transformer" : "cloneFieldTransformer"
+}
+

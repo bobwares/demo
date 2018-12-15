@@ -1,0 +1,8 @@
+{
+  "key": "OPERATION_PA",
+  "uri": "/api/v1/assign/product-asset/operation",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["PRODUCT_ASSET"],
+  "transformer" : "assignProductAssetOperationTransformer"
+}
+

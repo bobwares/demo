@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_PRIMARY_PLANTING_RX_ROUTE",
+  "uri": "/api/v1/import/prescription",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["PLANTING_PRESCRIPTION"],
+  "transformer" : "importPrescriptionTransformer"
+}
+

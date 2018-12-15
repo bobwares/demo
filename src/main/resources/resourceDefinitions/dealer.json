@@ -1,0 +1,8 @@
+{
+  "key": "CREATE_DEALER",
+  "uri": "/api/v1/dealer",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["DEALER", "DEALERSHIP"],
+  "transformer" : "dealerTransformer"
+}
+

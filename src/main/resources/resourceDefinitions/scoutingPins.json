@@ -1,0 +1,8 @@
+{
+  "key": "ADD_SCOUTING_PINS_API",
+  "uri": "/api/v1/scouting/pins",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["SCOUTING_PIN"],
+  "transformer" : "scoutingPinsTransformer"
+}
+

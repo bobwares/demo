@@ -1,0 +1,8 @@
+{
+  "key": "ADD_MANUAL_PLANTING_RX_ROUTE",
+  "uri": "/api/v1/prescription",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["PLANTING_PRESCRIPTION"],
+  "transformer" : "prescriptionTransformer"
+}
+

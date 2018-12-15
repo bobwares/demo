@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_FIELD_ROUTE",
+  "uri": "/api/v1/import/field",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["FIELD"],
+  "transformer" : "importFieldTransformer"
+}
+

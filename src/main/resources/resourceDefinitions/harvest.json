@@ -1,0 +1,8 @@
+{
+  "key": "CREATE_HARVEST_DATA_API",
+  "uri": "/api/v1/harvest",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["HARVEST"],
+  "transformer" : "harvestTransformer"
+}
+

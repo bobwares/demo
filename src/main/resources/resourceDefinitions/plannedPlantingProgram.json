@@ -1,0 +1,8 @@
+{
+  "key": "ADD_PLANTING_ROUTE",
+  "uri": "/api/v1/planned/planting/program",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["PLANNED_PLANTING"],
+  "transformer" : "plannedPlantingProgramTransformer"
+}
+

@@ -1,0 +1,8 @@
+{
+  "key": "FIELD_PA",
+  "uri": "/api/v1/assign/product-asset/field",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["PRODUCT_ASSET"],
+  "transformer" : "assignProductAssetFieldTransformer"
+}
+

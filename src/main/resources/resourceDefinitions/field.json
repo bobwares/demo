@@ -1,0 +1,8 @@
+{
+  "key": "ADD_FIELD_ROUTE",
+  "uri": "/api/v1/field",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["FIELD"],
+  "transformer" : "fieldTransformer"
+}
+

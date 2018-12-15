@@ -1,0 +1,8 @@
+{
+  "key": "ADD_FIELD_WITH_ZONE_ROUTE",
+  "uri": "/api/v1/field/capabilityzone",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["FIELD"],
+  "transformer" : "fieldTransformer"
+}
+

@@ -1,0 +1,8 @@
+{
+  "key": "CREATE_USER",
+  "uri": "/api/v1/user",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["USER", "FIELD"],
+  "transformer" : "userTransformer"
+}
+

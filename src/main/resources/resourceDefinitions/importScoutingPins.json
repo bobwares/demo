@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_SCOUTING_PINS_API",
+  "uri": "/api/v1/import/scouting/pins",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["SCOUTING_PIN"],
+  "transformer" : "importScoutingPinsTransformer"
+}
+

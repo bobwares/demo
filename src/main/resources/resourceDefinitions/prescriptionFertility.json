@@ -1,0 +1,8 @@
+{
+  "key": "ADD_MANUAL_FERTILITY_RX_ROUTE",
+  "uri": "/api/v1/prescription/fertility",
+  "operation": "ADD",
+  "dataTypeSupportedList": ["FERTILITY_PRESCRIPTION"],
+  "transformer" : "prescriptionFertilityTransformer"
+}
+

@@ -1,0 +1,7 @@
+{
+  "key": "IMPORT_NITROGEN_APPLICATION",
+  "uri": "/api/v1/import/nitrogen/application",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["NITROGEN"],
+  "transformer" : "importNitrogenApplicationTransformer"
+}

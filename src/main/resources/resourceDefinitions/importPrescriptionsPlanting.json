@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_PRESCRIPTIONS_PLANTING",
+  "uri": "/api/v1/import/prescriptions/planting",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["PLANTING_PRESCRIPTION"],
+  "transformer" : "importPrescriptionsPlantingTransformer"
+}
+

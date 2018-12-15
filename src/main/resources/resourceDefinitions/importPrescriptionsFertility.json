@@ -1,0 +1,8 @@
+{
+  "key": "IMPORT_PRIMARY_FERTILITY_RX_ROUTE",
+  "uri": "/api/v1/import/prescription/fertility",
+  "operation": "IMPORT",
+  "dataTypeSupportedList": ["FERTILITY_PRESCRIPTION"],
+  "transformer" : "importPrescriptionsFertilityTransformer"
+}
+
